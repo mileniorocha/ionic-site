@@ -4,7 +4,7 @@ var IonicSiteModule = angular.module('IonicSite',
 .run(['$rootScope', function($rootScope) {
   $rootScope.surveyQuestions = {
     cover: {
-      title: 'Help make Ionic better!',
+      title: 'Help make Ionic better Teste!',
       content: 'We\'ve got 3 quick questions to help us better understand ' +
                'your needs'
     },
